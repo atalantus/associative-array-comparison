@@ -20,6 +20,7 @@ This project aims to compare different such data structures based on their optim
 #### Chained Hash Tables
 #### Cuckoo Hashing
 ### Other
+- [ ] Sorted List
 - [ ] Skip List
 
 ## Operations Supported
